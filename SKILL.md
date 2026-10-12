@@ -1,6 +1,12 @@
 ---
 name: check-sicurezza
-description: Controllo di base della sicurezza di un'app web costruita con l'AI, pensato per lo stack React + Vite + Supabase (tipico di Lovable). Usala quando chiedi "controlla la sicurezza della mia app", "posso andare in produzione?", "ci sono chiavi esposte?", "ricontrolla dopo le correzioni" o prima di un lancio. Solo lettura: non modifica nulla e non attacca l'app in produzione. Ricontrolla ogni problema prima di segnalarlo e restituisce un rapporto datato in due colonne, indispensabile e miglioria, da rifare dopo le correzioni finché un giro torna pulito.
+description: >-
+  Controllo di base della sicurezza di un'app web costruita con l'AI, pensato per lo stack
+  React + Vite + Supabase (tipico di Lovable). Usala quando chiedi "controlla la sicurezza della mia
+  app", "posso andare in produzione?", "ci sono chiavi esposte?", "ricontrolla dopo le correzioni"
+  o prima di un lancio. Solo lettura: non modifica nulla e non attacca l'app in produzione.
+  Ricontrolla ogni problema prima di segnalarlo e restituisce un rapporto datato in due colonne,
+  indispensabile e miglioria, da rifare dopo le correzioni finché un giro torna pulito.
 ---
 
 # Controllo di sicurezza di base (React + Vite + Supabase)
